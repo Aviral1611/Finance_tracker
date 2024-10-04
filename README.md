@@ -7,8 +7,8 @@
 * Activate Virtual Env using `.\env\Scripts\activate`
 * If get access restrictions Error on Windows. Run this cmd `Set-ExecutionPolicy Unrestricted -Scope Process` The try again to activate Env
 
-# Setup Project
-* Clone This Git Repo `git clone https://github.com/ChetanR01/FinanceTracker`
+
+
 * Change directory `cd FinanceTracker`
 * Install dependencies from requirements.txt
 * `pip install -r requirements.txt`
